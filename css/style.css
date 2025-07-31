@@ -190,7 +190,15 @@ ul, ol {
     margin-bottom: 60px;
 }
 
-.section-header .title {
+.section-sub-header {
+    clear: both;
+    position: relative;
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
+
+.section-header .title,
+.section-sub-header .title {
     text-transform: capitalize;
 }
 
