@@ -621,7 +621,7 @@ header.subPage {
 .home-content button {
   margin-top: 20px;
 }
-.home-content p.white-text {
+.home-content > p {
   text-wrap: balance;
 }
 
