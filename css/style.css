@@ -622,6 +622,10 @@ header.subPage {
   margin-top: 20px;
 }
 
+.home-content > p {
+    text-wrap: balance;
+}
+
 .header-wrapper h2 {
     display: inline-block;
     margin-bottom: 0px;
